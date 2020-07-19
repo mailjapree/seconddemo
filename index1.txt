@@ -1,7 +1,4 @@
 hello test 
 here are the instructions
-<<<<<<< HEAD
 instruction added locally
-=======
 more changes added remotely
->>>>>>> 4b25d05d2f97bf31eb74a8127d456985846521f7
